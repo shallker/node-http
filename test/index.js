@@ -15,8 +15,4 @@ test('GET', function (done) {
     console.log('buffer', buffer);
   });
 
-  http.on('responseText', function (responseText) {
-    console.log('responseText', responseText);
-  });
-
 });
