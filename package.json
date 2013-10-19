@@ -1,7 +1,7 @@
 {
   "name": "node-http",
   "description": "node-http.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Shallker <imshallker@gmail.com>",
   "main": "index.js",
   "keywords": [
