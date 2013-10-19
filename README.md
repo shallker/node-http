@@ -50,12 +50,6 @@ nodeHttp.on('buffer', function (buffer) {
 });
 ```
 
-#### 'responseText'
-nodeHttp.on('responseText', function (responseText) {
-
-});
-```
-
 #### status code
 ```javascript
 nodeHttp.on(200, function (response) {
