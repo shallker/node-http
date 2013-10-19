@@ -74,6 +74,9 @@ nodeHttp.on('Not Found', function (response) {
 });
 ```
 
+## Todo
+- parse `charset` from html and content-type header
+
 ## License
 
   MIT
